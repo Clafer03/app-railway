@@ -1,8 +1,0 @@
-streamlit
-google-genai
-psycopg2-binary
-sqlalchemy
-pgvector
-pymongo
-redis
-python-dotenv
